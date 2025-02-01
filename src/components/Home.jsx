@@ -69,11 +69,17 @@ const Home = () => {
                 <img src={guaranteeCertificate} alt="" className="w-10 h-10" />
               </div>
               <div className="mt-4 font-bold text-2xl tracking-wide  ">
-                Zero Fees
+                Low Fees
               </div>
               <div className="mb-3 font-sans pt-4">
-                Commission rate is currently 0%. By staking your tokens with us,
-                you contribute to the security of these networks and share in
+                We offer 5% fees for <span><a
+          target="_blank"
+          href="https://cspr.live/validator/0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b"
+        > Node 1 </a> </span> and 3% fees for <span><a
+          target="_blank"
+          href="https://cspr.live/validator/017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9"
+        > Node 2 </a> </span> . By staking your tokens with us,
+                you contribute to the security of Casper Network and share in
                 the staking rewards
               </div>
             </div>
