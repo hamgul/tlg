@@ -29,7 +29,7 @@ const Home = () => {
           Earn Staking Rewards by Delegating Your Assets with Telgo Stake
         </h2>
       </div>
-      <div className="flex w-full h-20  justify-center mb-32">
+      <div className="flex w-full h-20  justify-center mb-8">
         <a
           target="_blank"
           href="https://cspr.live/validator/0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b"
@@ -44,6 +44,34 @@ const Home = () => {
             Stake
           </button>
         </a>
+      </div>
+      <div class="flex justify-center">
+        <div>
+          <a
+            target="_blank"
+            href="https://cspr.live/validator/0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b"
+          >
+            <button
+              type="button"
+              class="py-2.5 px-5 me-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+            >
+              Node 1
+            </button>
+          </a>
+        </div>
+        <div>
+          <a
+            target="_blank"
+            href="https://cspr.live/validator/017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9"
+          >
+            <button
+              type="button"
+              class="py-2.5 px-5 me-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+            >
+              Node 2
+            </button>
+          </a>
+        </div>
       </div>
       <div className="w-full h-full md:h-screen lg:h-screen  px-5 py-24 md:py-12 flex flex-wrap  flex-basis md:mt-52 ">
         <section className="w-full flex flex-col justify-center flex-wrap lg:flex-row lg:items-stretch lg:flex-no-wrap lg:justify-between">
@@ -72,15 +100,36 @@ const Home = () => {
                 Low Fees
               </div>
               <div className="mb-3 font-sans pt-4">
-                We offer 5% fees for <span><a
-          target="_blank"
-          href="https://cspr.live/validator/0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b"
-        > Node 1 </a> </span> and 3% fees for <span><a
-          target="_blank"
-          href="https://cspr.live/validator/017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9"
-        > Node 2 </a> </span> . By staking your tokens with us,
-                you contribute to the security of Casper Network and share in
-                the staking rewards
+                We currently have two Mainnet nodes and offer low fees. By staking your tokens with us, you contribute to the
+                security of Casper Network and share in the staking rewards
+              </div>
+              <div class="flex">
+                <div>
+                  <a
+                    target="_blank"
+                    href="https://cspr.live/validator/0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b"
+                  >
+                    <button
+                      type="button"
+                      class="py-2.5 px-5 me-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                    >
+                      Node 1
+                    </button>
+                  </a>
+                </div>
+                <div>
+                  <a
+                    target="_blank"
+                    href="https://cspr.live/validator/017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9"
+                  >
+                    <button
+                      type="button"
+                      class="py-2.5 px-5 me-2 mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                    >
+                      Node 2
+                    </button>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
