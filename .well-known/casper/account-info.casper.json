@@ -82,6 +82,18 @@
       "functionality": [
         "validator"
       ]
+    },{
+      "public_key": "0153d98c835b493c76050735dc79e6702a17cd78ab69d5b0c3631e72f8f38bb095",
+      "description": "This validator is running on a bare metal machine with top hardware specifications.",
+      "location": {
+        "name": "North America (Canada – East – Beauharnois)",
+        "country": "CA",
+        "latitude": 45.31561,
+        "longitude": -73.87801
+      },
+      "functionality": [
+        "validator"
+      ]
     }
   ]
 }
