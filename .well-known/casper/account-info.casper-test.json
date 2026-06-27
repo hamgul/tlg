@@ -58,10 +58,8 @@
       "public_key": "0153d98c835b493c76050735dc79e6702a17cd78ab69d5b0c3631e72f8f38bb095",
       "description": "This validator is running on a bare metal machine with top hardware specifications",
       "location": {
-        "name": "Netherlands",
-        "country": "NL",
-        "latitude": 52.1326,
-        "longitude": 5.2913
+        "name": "North America (Canada – East – Beauharnois)",
+        "country": "CA",
       },
       "functionality": [
         "validator"
