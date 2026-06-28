@@ -59,7 +59,7 @@
   "nodes": [
     {
       "public_key": "0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b",
-      "description": "This validator is running on a bare metal machine with top hardware specifications.",
+      "description": "Telgo Stake Mainnet validator node. This validator is running on a bare metal machine with top hardware specifications.",
       "location": {
         "name": "Netherlands",
         "country": "NL",
@@ -72,7 +72,7 @@
     },
     {
       "public_key": "017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9",
-      "description": "This validator is running on a bare metal machine with top hardware specifications.",
+      "description": "Telgo Stake 2nd validator node. This validator is running on a bare metal machine with top hardware specifications.",
       "location": {
         "name": "Netherlands",
         "country": "NL",
