@@ -66,6 +66,19 @@
       "functionality": [
         "validator"
       ]
+    },
+    {
+      "public_key": "017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9",
+      "description": "Telgo Stake validator node. This validator is running on a bare metal machine with top hardware specifications.",
+      "location": {
+        "name": "Netherlands",
+        "country": "NL",
+        "latitude": 52.1326,
+        "longitude": 5.2913
+      },
+      "functionality": [
+        "validator"
+      ]
     }
   ]
 }
