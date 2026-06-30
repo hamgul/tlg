@@ -23,7 +23,7 @@
     },
     "affiliated_accounts": [
       {
-        "public_key": "0153d98c835b493c76050735dc79e6702a17cd78ab69d5b0c3631e72f8f38bb095"
+        "public_key": "01ce47a125af8e217bf751801ca586ec4ad5d82db5ddc0822d21a9da3c22e90132"
       }
     ],
     "website": "https://telgostake.com",
@@ -55,7 +55,7 @@
   },
   "nodes": [
     {
-      "public_key": "0153d98c835b493c76050735dc79e6702a17cd78ab69d5b0c3631e72f8f38bb095",
+      "public_key": "01ce47a125af8e217bf751801ca586ec4ad5d82db5ddc0822d21a9da3c22e90132",
       "description": "Telgo Stake Testnet validator node. This validator is running on a bare metal machine with top hardware specifications",
       "location": {
         "name": "Canada, Beauharnois",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "public_key": "017de27d687f94063f6aa5f8c2335cac74016dd1ebd11ce99839fad562c03b6ba9",
+      "public_key": "0106eb4a256292100a485953e93d0b9dc4d9442b257405c03fdb91d4e35f185a1b",
       "description": "Telgo Stake validator node. This validator is running on a bare metal machine with top hardware specifications.",
       "location": {
         "name": "Netherlands",
