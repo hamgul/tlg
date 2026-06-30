@@ -82,6 +82,19 @@
       "functionality": [
         "validator"
       ]
+    },
+    {
+      "public_key": "01ce47a125af8e217bf751801ca586ec4ad5d82db5ddc0822d21a9da3c22e90132",
+      "description": "Telgo Stake Testnet validator node. This validator is running on a bare metal machine with top hardware specifications",
+      "location": {
+        "name": "Canada, Beauharnois",
+        "country": "CA",
+        "latitude": 45.31561,
+        "longitude": 73.87801
+      },
+      "functionality": [
+        "validator"
+      ]
     }
   ]
 }
